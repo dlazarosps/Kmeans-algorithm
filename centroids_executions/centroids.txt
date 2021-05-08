@@ -1,0 +1,25 @@
+Thinking Ahead + Spending On Looks
+
+k -> 2
+[{'centroid': '0', 'Thinking.ahead': 3.421994884910486, 'Spending.on.looks': 4.368286445012788}, {'centroid': '1', 'Thinking.ahead': 3.407108239095315, 'Spending.on.looks': 2.308562197092084}]
+
+k -> 3
+[{'centroid': '0', 'Thinking.ahead': 4.429553264604811, 'Spending.on.looks': 2.1993127147766325}, {'centroid': '1', 'Thinking.ahead': 2.4095744680851063, 'Spending.on.looks': 2.609042553191489}, {'centroid': '2', 'Thinking.ahead': 3.6501457725947524, 'Spending.on.looks': 4.419825072886297}]
+
+k -> 4
+[{'centroid': '0', 'Thinking.ahead': 4.594936708860759, 'Spending.on.looks': 4.067510548523207}, {'centroid': '1', 'Thinking.ahead': 2.354330708661417, 'Spending.on.looks': 2.606299212598425}, {'centroid': '2', 'Thinking.ahead': 2.4951923076923075, 'Spending.on.looks': 4.355769230769231}, {'centroid': '3', 'Thinking.ahead': 3.990353697749196, 'Spending.on.looks': 1.9453376205787782}]
+
+k -> 5
+[{'centroid': '0', 'Thinking.ahead': 4.2631578947368425, 'Spending.on.looks': 1.5526315789473684}, {'centroid': '1', 'Thinking.ahead': 4.442622950819672, 'Spending.on.looks': 3.0}, {'centroid': '2', 'Thinking.ahead': 2.465798045602606, 'Spending.on.looks': 2.501628664495114}, {'centroid': '3', 'Thinking.ahead': 2.4951923076923075, 'Spending.on.looks': 4.355769230769231}, {'centroid': '4', 'Thinking.ahead': 4.475409836065574, 'Spending.on.looks': 4.382513661202186}]
+
+-------------------------------------------------------------------------
+Metal + Romantic
+
+k -> 2 Best Centroids
+[{'centroid': '0', 'Metal.or.Hardrock': 3.8514851485148514, 'Romantic': 3.2004950495049505}, {'centroid': '1', 'Metal.or.Hardrock': 1.3663366336633664, 'Romantic': 3.684818481848185}]
+
+k -> 3 Best Centroids
+[{'centroid': '0', 'Metal.or.Hardrock': 1.5931034482758621, 'Romantic': 2.372413793103448}, {'centroid': '1', 'Metal.or.Hardrock': 1.484375, 'Romantic': 4.598958333333333}, {'centroid': '2', 'Metal.or.Hardrock': 4.023809523809524, 'Romantic': 3.1904761904761907}] 
+
+k -> 4 Best Centroids
+[{'centroid': '0', 'Metal.or.Hardrock': 3.754601226993865, 'Romantic': 4.404907975460123}, {'centroid': '1', 'Metal.or.Hardrock': 1.5931034482758621, 'Romantic': 2.372413793103448}, {'centroid': '2', 'Metal.or.Hardrock': 4.078048780487805, 'Romantic': 2.5073170731707317}, {'centroid': '3', 'Metal.or.Hardrock': 1.3465909090909092, 'Romantic': 4.5625}]
