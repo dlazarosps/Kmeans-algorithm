@@ -23,3 +23,14 @@ k -> 3 Best Centroids
 
 k -> 4 Best Centroids
 [{'centroid': '0', 'Metal.or.Hardrock': 3.754601226993865, 'Romantic': 4.404907975460123}, {'centroid': '1', 'Metal.or.Hardrock': 1.5931034482758621, 'Romantic': 2.372413793103448}, {'centroid': '2', 'Metal.or.Hardrock': 4.078048780487805, 'Romantic': 2.5073170731707317}, {'centroid': '3', 'Metal.or.Hardrock': 1.3465909090909092, 'Romantic': 4.5625}]
+
+-------------------------------------------------------------------------
+Reggae + Sci.fi
+k2
+[{'centroid': '0', 'Reggae..Ska': 2.701320132013201, 'Sci.fi': 2.1996699669966997}, {'centroid': '1', 'Reggae..Ska': 2.876237623762376, 'Sci.fi': 4.482673267326732}]
+k3 
+[{'centroid': '0', 'Reggae..Ska': 3.7222222222222223, 'Sci.fi': 3.814009661835749}, {'centroid': '1', 'Reggae..Ska': 2.5198776758409784, 'Sci.fi': 1.584097859327217}, {'centroid': '2', 'Reggae..Ska': 1.6133828996282529, 'Sci.fi': 3.892193308550186}]
+k4 = best
+[{'centroid': '0', 'Reggae..Ska': 3.462686567164179, 'Sci.fi': 2.044776119402985}, {'centroid': '1', 'Reggae..Ska': 2.171641791044776, 'Sci.fi': 4.507462686567164}, {'centroid': '2', 'Reggae..Ska': 4.268656716417911, 'Sci.fi': 3.970149253731343}, {'centroid': '3', 'Reggae..Ska': 1.5787545787545787, 'Sci.fi': 2.161172161172161}]
+k5
+[{'centroid': '0', 'Reggae..Ska': 1.9528301886792452, 'Sci.fi': 4.6415094339622645}, {'centroid': '1', 'Reggae..Ska': 3.992217898832685, 'Sci.fi': 3.9766536964980546}, {'centroid': '2', 'Reggae..Ska': 3.984126984126984, 'Sci.fi': 1.4523809523809523}, {'centroid': '3', 'Reggae..Ska': 1.4306930693069306, 'Sci.fi': 1.8663366336633664}, {'centroid': '4', 'Reggae..Ska': 2.6666666666666665, 'Sci.fi': 2.7136150234741785}]
