@@ -34,3 +34,12 @@ k4 = best
 [{'centroid': '0', 'Reggae..Ska': 3.462686567164179, 'Sci.fi': 2.044776119402985}, {'centroid': '1', 'Reggae..Ska': 2.171641791044776, 'Sci.fi': 4.507462686567164}, {'centroid': '2', 'Reggae..Ska': 4.268656716417911, 'Sci.fi': 3.970149253731343}, {'centroid': '3', 'Reggae..Ska': 1.5787545787545787, 'Sci.fi': 2.161172161172161}]
 k5
 [{'centroid': '0', 'Reggae..Ska': 1.9528301886792452, 'Sci.fi': 4.6415094339622645}, {'centroid': '1', 'Reggae..Ska': 3.992217898832685, 'Sci.fi': 3.9766536964980546}, {'centroid': '2', 'Reggae..Ska': 3.984126984126984, 'Sci.fi': 1.4523809523809523}, {'centroid': '3', 'Reggae..Ska': 1.4306930693069306, 'Sci.fi': 1.8663366336633664}, {'centroid': '4', 'Reggae..Ska': 2.6666666666666665, 'Sci.fi': 2.7136150234741785}]
+-------------------------------------------------------------------------
+
+Math+Fun
+k3
+[{'centroid': '0', 'Funniness': 3.3513513513513513, 'Mathematics': 4.047297297297297}, {'centroid': '1', 'Funniness': 2.370277078085642, 'Mathematics': 1.5415617128463477}, {'centroid': '2', 'Funniness': 4.391167192429022, 'Mathematics': 1.725552050473186}]
+k4
+[{'centroid': '0', 'Funniness': 4.395061728395062, 'Mathematics': 1.337448559670782}, {'centroid': '1', 'Funniness': 4.03265306122449, 'Mathematics': 4.004081632653061}, {'centroid': '2', 'Funniness': 2.3641618497109826, 'Mathematics': 3.393063583815029}, {'centroid': '3', 'Funniness': 2.464183381088825, 'Mathematics': 1.329512893982808}]
+k5
+[{'centroid': '0', 'Funniness': 3.0, 'Mathematics': 1.3554502369668247}, {'centroid': '1', 'Funniness': 1.5973154362416107, 'Mathematics': 1.4161073825503356}, {'centroid': '2', 'Funniness': 4.395061728395062, 'Mathematics': 1.337448559670782}, {'centroid': '3', 'Funniness': 4.533333333333333, 'Mathematics': 4.162962962962963}, {'centroid': '4', 'Funniness': 2.8455882352941178, 'Mathematics': 3.577205882352941}]
