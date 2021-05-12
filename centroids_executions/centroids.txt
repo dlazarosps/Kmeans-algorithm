@@ -43,3 +43,15 @@ k4
 [{'centroid': '0', 'Funniness': 4.395061728395062, 'Mathematics': 1.337448559670782}, {'centroid': '1', 'Funniness': 4.03265306122449, 'Mathematics': 4.004081632653061}, {'centroid': '2', 'Funniness': 2.3641618497109826, 'Mathematics': 3.393063583815029}, {'centroid': '3', 'Funniness': 2.464183381088825, 'Mathematics': 1.329512893982808}]
 k5
 [{'centroid': '0', 'Funniness': 3.0, 'Mathematics': 1.3554502369668247}, {'centroid': '1', 'Funniness': 1.5973154362416107, 'Mathematics': 1.4161073825503356}, {'centroid': '2', 'Funniness': 4.395061728395062, 'Mathematics': 1.337448559670782}, {'centroid': '3', 'Funniness': 4.533333333333333, 'Mathematics': 4.162962962962963}, {'centroid': '4', 'Funniness': 2.8455882352941178, 'Mathematics': 3.577205882352941}]
+
+
+-------------------------------------------------------------------------
+
+Workalolism + Finances
+
+k3
+[{'centroid': '0', 'Workaholism': 2.7552447552447554, 'Finances': 4.2622377622377625}, {'centroid': '1', 'Workaholism': 2.183628318584071, 'Finances': 2.329646017699115}, {'centroid': '2', 'Workaholism': 4.599264705882353, 'Finances': 2.875}]
+k4
+[{'centroid': '0', 'Workaholism': 4.511363636363637, 'Finances': 1.625}, {'centroid': '1', 'Workaholism': 4.457364341085271, 'Finances': 3.697674418604651}, {'centroid': '2', 'Workaholism': 2.1137440758293837, 'Finances': 1.5639810426540284}, {'centroid': '3', 'Workaholism': 2.280353200883002, 'Finances': 3.5916114790286975}]
+k5
+[{'centroid': '0', 'Workaholism': 1.401098901098901, 'Finances': 1.9395604395604396}, {'centroid': '1', 'Workaholism': 4.136752136752137, 'Finances': 1.4700854700854702}, {'centroid': '2', 'Workaholism': 2.3207547169811322, 'Finances': 4.264150943396227}, {'centroid': '3', 'Workaholism': 4.457364341085271, 'Finances': 3.697674418604651}, {'centroid': '4', 'Workaholism': 2.676348547717842, 'Finances': 2.784232365145228}]
